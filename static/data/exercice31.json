@@ -1,0 +1,150 @@
+{
+	"app_name": "ejmemor",
+	"titre": "Le passé simple",
+	"prof": "Patrick CARDONA",
+	"consigne": "Mémorisez la conjugaison du passé simple.",
+	"series":
+		[
+			{
+				"ques": "Plonger : il …",
+				"ans":"Il plongea"
+			},
+			{
+				"ques":"Commencer : il …",
+				"ans":"Il commença"
+			},
+			{
+				"ques":"Devenir : il …",
+				"ans":"Il devint"
+			},
+			{
+				"ques":"Retenir : il …",
+				"ans":"Il retint"
+			},
+			{
+				"ques":"Aller : il …",
+				"ans":"Il alla"
+			},
+			{
+				"ques":"Placer : je …",
+				"ans":"Je plaçai"
+			},
+			{
+				"ques":"Lacer : elles …",
+				"ans":"Elles lacèrent"
+			},
+			{
+				"ques":"Dire : vous …",
+				"ans":"Vous dîtes"
+			},
+			{
+				"ques":"Entendre : ils …",
+				"ans":"Ils entendirent"
+			},
+			{
+				"ques":"Écrire : elle …",
+				"ans":"Elle écrivit"
+			},
+			{
+				"ques":"Faire : on …",
+				"ans":"On fit"
+			},
+			{
+				"ques":"Mettre : ils …",
+				"ans":"Ils mirent"
+			},
+			{
+				"ques":"Ouvrir : il …",
+				"ans":"Il ouvrit"
+			},
+			{
+				"ques":"Partir : elles …",
+				"ans":"Elles partirent"
+			},
+			{
+				"ques":"Prendre : tu …",
+				"ans":"Tu pris"
+			},
+			{
+				"ques":"Rendre : elle …",
+				"ans":"Elle rendit"
+			},
+			{
+				"ques":"Répondre : je …",
+				"ans":"Je répondis"
+			},
+			{
+				"ques":"Sentir : on …",
+				"ans":"On sentit"
+			},
+			{
+				"ques":"Servir : cela …",
+				"ans":"Cela servit"
+			},
+			{
+				"ques":"Suivre : nous …",
+				"ans":"Nous suivîmes"
+			},
+			{
+				"ques":"Voir : elles …",
+				"ans":"Elles virent"
+			},
+			{
+				"ques":"Avoir : vous …",
+				"ans":"Vous eûtes"
+			},
+			{
+				"ques":"Être : ils …",
+				"ans":"Ils furent"
+			},
+			{
+				"ques":"Connaître : elle …",
+				"ans":"Elle connut"
+			},
+			{
+				"ques":"Croire : tu …",
+				"ans":"Tu crus"
+			},
+			{
+				"ques":"Devoir : ils …",
+				"ans":"Ils durent"
+			},
+			{
+				"ques":"Falloir : il …",
+				"ans":"Il fallut"
+			},
+			{
+				"ques":"Lire : il …",
+				"ans":"Il lut"
+			},
+			{
+				"ques":"Mourir : elle …",
+				"ans":"Elle mourut"
+			},
+			{
+				"ques":"Paraître : je …",
+				"ans":"Je parus"
+			},
+			{
+				"ques":"Pouvoir : on …",
+				"ans":"On put"
+			},
+			{
+				"ques":"Recevoir : ils …",
+				"ans":"Ils reçurent"
+			},
+			{
+				"ques":"Savoir : nous …",
+				"ans":"Nous sûmes"
+			},
+			{
+				"ques":"Vivre : ils …",
+				"ans":"Ils vécurent"
+			},
+			{
+				"ques":"Vouloir : tu …",
+				"ans":"Tu voulus"
+			}
+		],
+	"version":"14octobre2012-21h12:37"
+}

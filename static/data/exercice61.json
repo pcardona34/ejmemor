@@ -1,0 +1,7 @@
+{
+"app_name":"ejmemor",
+"titre":"Le futur",
+"prof":"Patrick Cardona",
+"consigne": "Mémorisez le futur.",
+"series":[{ "ques" : "FAIRE : il ...", "ans": "fera"},{ "ques" : "DIRE : il ...", "ans": "dira" },{ "ques" : "POUVOIR : il ...", "ans" : "pourra" },{ "ques" : "ALLER : il ...", "ans" : "ira" },{ "ques" : "VOIR : il ...", "ans": "verra" },{ "ques": "VOULOIR : il ...", "ans" : "voudra" },{ "ques": "VENIR : il ...", "ans" : "viendra" },{ "ques" : "DEVOIR : il ...", "ans" : "devra" },{ "ques": "CROIRE : il ...", "ans": "croira" },{ "ques" : "PRENDRE : il ...", "ans" : "prendra" },{ "ques" : "TENIR : il ...", "ans" : "tiendra" },{ "ques": "ENVOYER : il ...", "ans" : "enverra" },{ "ques" : "COURIR : il ...", "ans" : "courra" },{ "ques" : "MOURIR : il ...", "ans" : "mourra" },{ "ques" : "ÊTRE : il ...", "ans" : "sera" },{"ques" : "AVOIR : il ..." , "ans" : "aura" }]
+}

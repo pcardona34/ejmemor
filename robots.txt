@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: https://pcardona34.github.io/ejmemor/favicon.ico
+Disallow: https://pcardona34.github.io/ejmemor/build/*
+Disallow: https://pcardona34.github.io/ejmemor/public/*
+Disallow: https://pcardona34.github.io/ejmemor/static/*
+Disallow: https://pcardona34.github.io/ejmemor/src/*

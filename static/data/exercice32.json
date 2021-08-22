@@ -1,0 +1,36 @@
+{
+    "app_name": "ejmemor",
+    "prof": "Patrick Cardona",
+    "titre": "La valeur des temps du récit",
+    "consigne": "Mémorisez les valeurs des temps du récit.",
+    "series": [
+        {
+            "ques": "premier plan du récit",
+            "ans": "passé simple"
+        },
+        {
+            "ques": "second plan du récit",
+            "ans": "imparfait"
+        },
+        {
+            "ques": "commentaire du narrateur",
+            "ans": "présent"
+        },
+        {
+            "ques": "à la place du passé simple",
+            "ans": "présent de narration"
+        },
+        {
+            "ques": "répétition ou habitude dans le passé",
+            "ans": "imparfait"
+        },
+        {
+            "ques": "description dans le passé",
+            "ans": "imparfait"
+        },
+        {
+            "ques": "fait antérieur ou accompli",
+            "ans": "plus-que-parfait"
+        }
+    ]
+}

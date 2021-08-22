@@ -1,0 +1,101 @@
+{
+	"app_name":"ejmemor",
+	"theme":"L'impératif : 2e personne du singulier",
+	"prof":"Patrick Cardona",
+	"consigne": "Mémorisez l'impératif.",
+	"series":[
+		{
+			"ques":"(Aller) au collège.",
+			"ans":"Va au collège."
+			},
+		{	
+			"ques":"(Cueillir) les roses de la vie.",
+			"ans":"Cueille les roses de la vie."
+			},
+		{
+			"ques":"(Savoir) la leçon par cœur.",
+			"ans":"Sache la leçon par cœur."
+			},
+		{
+			"ques":"(Ouvrir) ton sac.",
+			"ans":"Ouvre ton sac."
+			},
+		{
+			"ques":"Y (aller) sans tarder.",
+			"ans":"Vas-y sans tarder."
+			},
+		{
+			"ques":"En (cueillir) un bouquet.",
+			"ans":"Cueilles-en un bouquet."
+			},
+		{
+			"ques":"En (savoir) la moitié.",
+			"ans":"Saches-en la moitié."
+			},
+		{
+			"ques":"En (ouvrir) une boîte.",
+			"ans":"Ouvres-en une boîte."
+			},
+		{
+			"ques":"(Donner) ce livre à ton frère.",
+			"ans":"Donne ce livre à ton frère."
+			},
+		{
+			"ques":"En (donner) un peu à ton frère.",
+			"ans":"Donnes-en un peu à ton frère."
+			},
+		{
+			"ques":"Ne pas (avoir) peur.",
+			"ans":"N'aie pas peur."
+			},
+		{
+			"ques":"(Être) sage.",
+			"ans":"Sois sage."
+			},
+		{
+			"ques":"(Courir) plus vite.",
+			"ans":"Cours plus vite."
+			},
+		{
+			"ques":"(Finir) ton goûter.",
+			"ans":"Finis ton goûter."
+			},
+		{
+			"ques":"En (avoir) le courage.",
+			"ans":"Aies-en le courage."
+			},
+		{
+			"ques":"En (être) certain.",
+			"ans":"Sois-en certain."
+			},
+		{
+			"ques":"(Se promener).",
+			"ans":"Promène-toi"
+			},
+		{
+			"ques":"Lui en (parler)",
+			"ans":"Parles-en-lui"
+			},
+		{
+			"ques":"M'en (donner).",
+			"ans":"Donne-m'en"
+			},
+		{
+			"ques":"Me la (donner)",
+			"ans":"Donne-la-moi."
+			},
+		{
+			"ques":"Le lui (donner).",
+			"ans":"Donne-le-lui"
+			},
+		{
+			"ques":"(S'en mettre).",
+			"ans":"Mets-t'en."
+			},
+		{
+			"ques":"(S'en aller)",
+			"ans":"Va-t'en."
+			}
+	],
+	"version":"28novembre2012-0h34:19"
+}
