@@ -341,7 +341,7 @@ router.on({
    =================================================*/
     /* un exercice a été choisi => id -> did */
  "choix/exercice/:id": function (params) {
-    fetch("../static/data/exercice" + params.id + ".json")
+    fetch("./static/data/exercice" + params.id + ".json")
         .then((response) => {
           return response.json();
         })
