@@ -22,7 +22,7 @@
 		<label class="w3-text-gray"><i class="icon-filtre"></i> Filtre :</label>
 		<input class="w3-input w3-border w3-padding" 
 		type="text" 
-		placeholder="Titre ou numéro..." 
+		placeholder="Numéro ou mot clé du titre..." 
 		spellcheck="false" 
 	    oninput="filtrer('liste', this.value)">
 	</form>
@@ -35,8 +35,8 @@
     style="list-style-type: none; margin: 0; padding: 0">
 	    {{#each info}}
 	    {{#if (estDuNiveauRequis this.niveau)}}
-		<li><a href="#!{{../cible}}/{{this.id}}" class="w3-bar-item w3-button">
-			    {{this.id}} : {{this.titre}} </a>
+		<li><a href="#!{{../cible}}/{{this.id}}" class="w3-bar-item w3-button" data-navigo>
+				{{this.id}} : {{this.titre}}</a>
 		</li>
 	    {{/if}}
 	    {{/each}}

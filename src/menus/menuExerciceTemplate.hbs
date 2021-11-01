@@ -19,7 +19,7 @@
     <button class="w3-button w3-{{couleur}} w3-xlarge" 
     onclick="{{action}}">{{{icone}}}</button>
   {{else}}
-    <a href="{{{action}}}" class="w3-button w3-{{couleur}} w3-xlarge">{{{icone}}}</a>
+    <a href="{{{action}}}" class="w3-button w3-{{couleur}} w3-xlarge" data-navigo>{{{icone}}}</a>
   {{/if}}
 
 
@@ -45,7 +45,7 @@ id="menu_mobile_actions">
       <a href="{{lien}}/{{@root.did}}" 
       class="w3-bar-item w3-button w3-{{couleur}} w3-border-bottom
       {{#if @first}} w3-border-top{{/if}}
-      ">
+      " data-navigo>
       {{{icone}}} {{legende}}</a>
   {{/if}}
 {{/each}}
@@ -58,7 +58,7 @@ id="menu_mobile_actions">
       <button onclick="{{lien}}/{{@root.did}}" class="w3-bar-item w3-button w3-{{couleur}} w3-right">{{{icone}}} {{legende}} 
       </button>
   {{else}}
-      <a href="{{lien}}/{{@root.did}}" class="w3-bar-item w3-button w3-{{couleur}} w3-right">{{{icone}}} {{legende}}</a>
+      <a href="{{lien}}/{{@root.did}}" class="w3-bar-item w3-button w3-{{couleur}} w3-right" data-navigo>{{{icone}}} {{legende}}</a>
   {{/if}}
 {{/each}}
 </span>

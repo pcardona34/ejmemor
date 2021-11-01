@@ -3,7 +3,8 @@
 
 	
 .blanc {
-	background-color: white;
+	background-color: silver;
+	cursor: pointer;
 	}
 	
 .vert {
@@ -11,5 +12,6 @@
 	}
 	
 .bleu {
-	background-color: lightblue;
+	background-color: lightsteelblue;
+	cursor: crosshair;
 }

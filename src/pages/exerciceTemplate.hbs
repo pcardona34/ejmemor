@@ -1,5 +1,5 @@
 <!-- ==================================
- *            Skelapp > ejmemor         *
+ *            Skelapp & ejmemor         *
  * ==================================== *
  * (c)2021 - Patrick Cardona       *
  * Licence GPL version 3 ou ultérieure  *
@@ -22,31 +22,32 @@
 	</div>
 
 <div class="w3-bar">
-		<a title="Je ne le sais pas encore!" onclick="exercice.jenelesaispasencore()"
+		<button title="Je ne le sais pas encore!" onclick="exercice.jenelesaispasencore()"
 		class="w3-bar-item w3-button w3-red reaction">
 		<b><i class='icon-fermer'></i></b>
-		</a>
+		</button>
 
-		<a title="Retourner la carte" onclick="exercice.retourner()"
+		<button title="Retourner la carte" onclick="exercice.retourner()"
 		class="w3-bar-item w3-button w3-teal" id="retourner">
 		<i class='icon-voir'></i>
-		</a>
+		</button>
 
-		<a title="Je le sais déjà!" onclick="exercice.jelesaisdeja()"
+		<button title="Je le sais déjà!" onclick="exercice.jelesaisdeja()"
 		class="w3-bar-item w3-button w3-green reaction">
 		<i class='icon-finir'></i>
-		</a>
+		</button>
 </div>
 
 
-	<div class="w3-card-4">
-		<div id="boite" class="w3-container w3-padding w3-center"></div>
-	</div>
-
-<div id="actions" class="w3-center">
-	<a title="Cliquez sur la pile pour commencer." onclick="exercice.commencer()">
-	<img src="./static/images/exercice/deck.png" alt="Pile" width="50%" height="auto" />
-	</a>
-</div>
+	<!-- <div class="w3-card-4"> -->
+		<div id="boite" class="w3-container w3-padding w3-center blanc">
+		<div id="actions" class="w3-center">
+			<button title="Cliquez sur la pile pour commencer." onclick="exercice.commencer()">
+			<img src="./static/images/exercice/deck.png" alt="Pile" width="50%" height="auto" />
+			Commencer...
+			</button>
+		</div>
+		</div>
+	<!-- </div> -->	
 
 </div>

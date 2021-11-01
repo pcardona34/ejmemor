@@ -1,6 +1,6 @@
 {
   "name": "ejmemor",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Exercice de mémorisation (flashcards)",
   "main": "build/app.js",
   "directories": {
@@ -31,7 +31,7 @@
   "homepage": "https://github.com/pcardona34/${npm_package_name}#readme",
   "dependencies": {
     "chibijs": ">=3.0.9",
-    "navigo": ">=7.1.2"
+    "navigo": "=7.1.2"
   },
   "devDependencies": {
     "clean-css": "^5.1.5",

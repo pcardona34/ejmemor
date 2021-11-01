@@ -16,7 +16,7 @@
   class="w3-bar-item w3-button w3-blue-gray">Fermer 
   <i class="icon-fermer w3-right"></i></button>
 {{#each this.items}}
-  <a href="{{lien}}" class="w3-bar-item w3-button w3-light-gray w3-border-bottom">
+  <a href="{{lien}}" class="w3-bar-item w3-button w3-light-gray w3-border-bottom" data-navigo>
   {{{icone}}} {{legende}}</a>
   {{/each}}
 </div>
@@ -28,7 +28,7 @@
     <button class="w3-button w3-{{couleur}} w3-xlarge" 
     onclick="{{action}}">{{{icone}}}</button>
   {{else}}
-    <a href="{{{action}}}" class="w3-button w3-{{couleur}} w3-xlarge">{{{icone}}}</a>
+    <a href="{{{action}}}" class="w3-button w3-{{couleur}} w3-xlarge" data-navigo>{{{icone}}}</a>
   {{/if}}
   
 <!-- Actions -->
@@ -37,7 +37,7 @@
       <button onclick="{{lien}}" class="w3-bar-item w3-button w3-{{couleur}} w3-right">{{{icone}}} {{legende}} 
       </button>
   {{else}}
-      <a href="{{lien}}" class="w3-bar-item w3-button w3-{{couleur}} w3-right">{{{icone}}} {{legende}}</a>
+      <a href="{{lien}}" class="w3-bar-item w3-button w3-{{couleur}} w3-right" data-navigo>{{{icone}}} {{legende}}</a>
   {{/if}}
 {{/each}}
   <div class="w3-container">
