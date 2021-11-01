@@ -340,7 +340,7 @@ router.on({
 	=== Page du contexte Accueil Exercice 
    =================================================*/
     /* un exercice a été choisi => id -> did */
- "exercice/:id": function (params) {
+ "choix/exercice/:id": function (params) {
     fetch("../static/data/exercice" + params.id + ".json")
         .then((response) => {
           return response.json();
