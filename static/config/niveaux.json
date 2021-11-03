@@ -5,6 +5,8 @@
 			{ "chiffre": "5", "nom": "Cinquième" },
 			{ "chiffre": "4", "nom": "Quatrième" },
 			{ "chiffre": "3", "nom": "Troisième" },
+			{ "chiffre": "2", "nom": "Seconde" },
+			{ "chiffre": "1", "nom": "Première" },
 			{ "chiffre": "*", "nom": "Tous" }
 		]
 }
